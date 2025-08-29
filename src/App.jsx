@@ -90,7 +90,7 @@ const icons = {
 // Data for the portfolio
 const portfolioData = {
   name: "Faizan Lukman Tadvi",
-  headline: " Hey , I'm Faizan Tadvi.",
+  headline: " .Hey , I'm Faizan Tadvi.",
   subHeadline: "I build fast, modern web applications that get results.",
   about: "Motivated Computer Science student with a passion for web development and automation. Eager to contribute technical skills in Java, JavaScript, and modern frameworks to a forward-thinking team as a Software Developer Intern or Junior Engineer.",
   contact: {
